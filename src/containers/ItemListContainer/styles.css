@@ -1,0 +1,15 @@
+.bienvenida{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto{
+    color: darkorange;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}

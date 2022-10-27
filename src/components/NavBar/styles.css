@@ -1,0 +1,29 @@
+ul{
+    background-color: darkorange;
+    padding: 1%;
+}
+
+li{
+    display: inline-block;
+     margin-block-end: 10px;
+     margin-top: 1%;
+     
+
+}
+
+a{
+    color: rgba(3, 3, 3, 0.87);
+    text-decoration: none;
+    margin-inline-end: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    cursor:pointer;
+}
+
+li:hover{
+    transform:scale(1.1);
+    transition: .50s;
+}
+
+
+    
